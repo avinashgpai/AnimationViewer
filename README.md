@@ -1,5 +1,7 @@
 # AnimationViewer
 
+FOLLOW BELOW INSTRUCTIONS WHILE HOSTING.
+
 1. In next-previous.js line 38 change the url as per your hosting.
 2. In folder Evobi-admin/assets/ create a folder by name "gltf".
 3. In folder Evobi-admin/assets/images/ create a folder by name "title".
@@ -9,4 +11,4 @@
 FOR REFERENCE HERE IS DEMO SITE WHERE YOU CAN TRY OUT
 
 https://inspiriting-heading.000webhostapp.com/
-https://inspiriting-heading.000webhostapp.com/Evobi-admin/
+<br />   https://inspiriting-heading.000webhostapp.com/Evobi-admin/
