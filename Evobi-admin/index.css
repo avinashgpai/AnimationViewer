@@ -1,0 +1,153 @@
+.upload{
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-top:-190px;
+	margin-left:-420px;
+	display:inline-flex;
+	flex-flow:row;
+}
+
+.wrapper,.files1{
+	display:inline-block;
+	border:1px solid black;
+	border-radius: 5px;
+}
+
+.wrapper{
+	margin:40px 30px 9px 30px;
+	padding:20px 5px 0 5px;
+	width:180px;
+	height:70px;
+}
+
+#fileInput{
+	width:200px;
+	margin:10px 0;
+}
+
+#submit,#image_title_submit,#pausetime_instruction_submit{
+	width:100px;
+	cursor:pointer;
+}
+
+.files1{
+	position:fixed;
+	left:0;
+	width:230px;
+	height:235px;
+	top:50%;
+	margin-top:-120px;
+}
+
+.instructions{
+	position:fixed;
+	right:0;
+	width:270px;
+	height:410px;
+	top:50%;
+	margin-top:-210px;
+	border:1px solid black;
+	border-radius:5px;
+	display:inline-flex;
+	flex-flow:column;
+	align-items:center;
+	overflow-Y:auto;
+}
+
+.file_display{
+	width:200px;
+	height:180px;
+	margin-left:13px;
+	border:1px solid black;
+	border-radius:5px;
+	overflow-X:hidden;
+	overflow-Y:auto;
+}
+
+.file{
+	width:170px;
+	margin:2px;
+	border:1px solid lightgrey;
+	border-radius:5px;
+	cursor:pointer;
+}
+
+.file_display :hover {
+	border-color: rgb(150,150,150);
+}
+
+.upload_pause_time,.upload_clip_images{
+	width:200px;
+	height:332px;
+	border:1px solid black;
+	border-radius:5px;
+	margin:0 0 15px 15px;
+	padding:20px 30px;
+}
+
+#pause_time,#clip_image,#instructions_text{
+	margin-top:10px;
+	width:200px;
+	border:1px solid black;
+	border-radius:5px;
+	overflow-X:hidden;
+	overflow-Y:auto;
+}
+
+#pause_time,#instructions_text{
+	height:100px;
+	margin-bottom:5px;
+}
+
+#clip_image{
+	height:130px;
+	margin-bottom:35px;
+}
+
+label{
+	margin-right: 10px;
+}
+
+#gltf_name{
+	margin-top:5px;
+}
+
+.row{
+	margin: 2px 0;
+	width:180px;
+	display:inline-flex;
+	flex-flow:row;
+}
+
+.delete{
+	width:20px;
+	height:25px;
+	cursor:pointer;
+}
+
+.index{
+	width:50px;
+}
+
+#rearrange{
+	margin-top:5px;
+	cursor:pointer;
+}
+
+h4{
+	padding:0;
+	margin:0;
+}
+
+ul{
+	width:230px;
+	padding:0;
+	margin-left:20px;
+	margin-top:0;
+	text-align: justify;
+}
+
+li{
+	margin:10px 0;
+}

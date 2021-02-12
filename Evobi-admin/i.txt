@@ -1,0 +1,3 @@
+ta.glb,12,Beam_7.jpg,Peg.jpg,Peg.jpg,Long_Peg.jpg,Beam_5.jpg,Beam_2.jpg,Peg.jpg,Beam_4.jpg,Peg.jpg,Technic_Angle_Connector.jpg,Axle_2.jpg,Axle_7.jpg
+lamp_bx.gltf,4,Axle_2.jpg,Axle_7.jpg,Axle_7.jpg,Axle_2.jpg
+tb.glb,8,Motor.jpg,Motor_Clamp.jpg,Wooden_Parts.jpg,Wooden_Parts.jpg,Screw.jpg,Wooden_Parts.jpg,Screw.jpg,Wooden_Parts.jpg
